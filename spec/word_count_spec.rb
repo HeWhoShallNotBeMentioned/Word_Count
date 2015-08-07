@@ -4,6 +4,6 @@ require('pry')
 
 describe('String#word_count') do
   it ('takes a string input and gives the number of times a second word is in the string') do
-    expect(("peck").word_count()).to(eq(2))
+    expect(("Peter Piper picked a peck").word_count("peck")).to(eq(1))
   end
 end
