@@ -12,6 +12,8 @@ The application uses an array to split the sentence up on spaces so it cannot se
 
 Web front end is provided via Sinatra.
 
+View the app at https://immense-basin-4394.herokuapp.com/ | https://git.heroku.com/immense-basin-4394.git
+
 
 ## Setup
  Gem file is inclosed. Use Bundle Install.
